@@ -3,10 +3,27 @@
         "title": "BitLife Online",
         "slug": "/",
         "img": "/class/logo.png"
-    },{
+    },
+    {
         "title": "Retro Bowl College",
         "slug": "retro-bowl-college",
         "img": "https://classroomjq.github.io/retro-bowl-college/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Retro Bowl",
+        "slug": "retro-bowl",
+        "img": "https://webglmath.github.io/retro-bowl/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "1v1 LOL",
+        "slug": "1v1-lol",
+        "img": "https://webglmath.github.io/1v1-lol/logo.png",
         "game": "https://classroomjq.github.io/retro-bowl-college/",
         "domain": 20,
         "date": 12523
