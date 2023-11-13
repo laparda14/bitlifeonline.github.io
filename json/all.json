@@ -5,6 +5,22 @@
         "img": "/class/logo.png"
     },
     {
+        "title": "House Of Hazards",
+        "slug": "house-of-hazards",
+        "img": "https://webglmath.github.io/house-of-hazards/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Stick Merge",
+        "slug": "stickmerge",
+        "img": "https://ubg77.github.io/edit/stick-merge-halloween/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
         "title": "Retro Bowl College",
         "slug": "retro-bowl-college",
         "img": "https://classroomjq.github.io/retro-bowl-college/logo.png",
@@ -27,7 +43,56 @@
         "game": "https://classroomjq.github.io/retro-bowl-college/",
         "domain": 20,
         "date": 12523
-    },{
+    },
+    {
+        "title": "Subway Surfers Winter Holiday",
+        "slug": "subway-surfers-winter-holiday",
+        "img": "https://ubg77.github.io/updatefaqs/subway-surfers-winter-holiday/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Subway Surfers New York City",
+        "slug": "subway-surfers-nyc",
+        "img": "https://ubg77.github.io/updatefaqs/subway-surfers-nyc/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Subway Surfers Bali",
+        "slug": "subway-surfers-bali",
+        "img": "https://ubg77.github.io/updatefaqs/subway-surfers-bali/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Basket Random",
+        "slug": "basket-random",
+        "img": "https://slope-game.github.io/new3723/basket-random/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Basketball Legends",
+        "slug": "basketball-legends",
+        "img": "https://webglmath.github.io/basketball-legends/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Geometry Dash",
+        "slug": "gd",
+        "img": "https://slope-game.github.io/img/gd.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
         "title": "Vex 8",
         "slug": "vex-8",
         "img": "https://classroomjq.github.io/vex-8/logo.png",
