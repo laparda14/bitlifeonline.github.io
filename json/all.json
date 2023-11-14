@@ -21,6 +21,46 @@
         "date": 12523
     },
     {
+        "title": "Stickman Hook",
+        "slug": "stickman-hook",
+        "img": "https://webglmath.github.io/stickmanhook/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Among Us",
+        "slug": "among-us",
+        "img": "https://webglmath.github.io/among-us/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Cookie Clicker",
+        "slug": "cookie-clicker",
+        "img": "https://webglmath.github.io/cookie-clicker/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Eggy Car",
+        "slug": "eggy-car",
+        "img": "https://webglmath.github.io/eggy-car/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "OvO",
+        "slug": "ovo",
+        "img": "https://webglmath.github.io/ovo/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },,
+    {
         "title": "Retro Bowl College",
         "slug": "retro-bowl-college",
         "img": "https://classroomjq.github.io/retro-bowl-college/logo.png",
