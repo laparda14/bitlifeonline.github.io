@@ -61,6 +61,30 @@
         "date": 12523
     },
     {
+        "title": "Flappy Bird",
+        "slug": "flappybird",
+        "img": "https://bitlifeonline.github.io/flappybird/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Bloons Tower Defense 3",
+        "slug": "bloons-tower-defense-3",
+        "img": "https://bitlifeonline.github.io/bloons-tower-defense-3/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
+        "title": "Bloons Tower Defense 4",
+        "slug": "bloons-tower-defense-4",
+        "img": "https://bitlifeonline.github.io/bloons-tower-defense-4/logo.png",
+        "game": "https://classroomjq.github.io/retro-bowl-college/",
+        "domain": 20,
+        "date": 12523
+    },
+    {
         "title": "Retro Bowl College",
         "slug": "retro-bowl-college",
         "img": "https://classroomjq.github.io/retro-bowl-college/logo.png",
