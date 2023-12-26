@@ -198,6 +198,19 @@
             <div class="popular-slider-1 auction-item-wrap">
               <div class="auction-card style9">
                 <div class="auction-img">
+                  <img src="/class/logo.png" alt="Hot Game">
+                  <button type="button" class="btn style1" onclick="location.href='/category/hot.html'">Play</button>
+                </div>
+                <div class="auction-info-wrap">
+                  <div class="auction-title">
+                    <h3>
+                      <a href="/category/hot.html">Hot Game</a>
+                    </h3>
+                  </div>
+                </div>
+              </div>
+              <div class="auction-card style9">
+                <div class="auction-img">
                   <img src="/assets/logo/nowgg.png" alt="Now GG">
                   <button type="button" class="btn style1" onclick="location.href='/category/android.html'">Play</button>
                 </div>
@@ -525,7 +538,7 @@
                 }
                 html += `<div class="auction-card style9">
                 <div class="auction-img">
-                  <img src="${item.img}" alt="${item.title}">
+                  <img src="${item.img}" style="width:100%;height:100%" alt="${item.title}">
                   <button type="button" class="btn style1" onclick="location.href='${slug}'">Play</button>
                 </div>
                 <div class="auction-info-wrap">
