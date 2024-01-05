@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="/assets/css/style.css?v=1">
     <link rel="stylesheet" href="/assets/css/dark-theme.css">
     <link rel="stylesheet" href="/assets/css/responsive.css">
-    <title>Action Games - bitlifeonline.github.io</title>
+    <title>Io Games - bitlifeonline.github.io</title>
     <link rel="icon" type="image/png" href="/assets/icon.png">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2485663923316878"
      crossorigin="anonymous"></script>
@@ -235,7 +235,7 @@
       
     $( document ).ready(function() {
       const start = Date.now();
-      fetch("/json/action-games-unblocked.json?v="+start,{
+      fetch("/json/io-games-unblocked.json?v="+start,{
             headers: {
                 'Content-Type': 'application/json',
                 },
@@ -281,7 +281,7 @@
                 } else if(item.domain == 11) {
                 img = item.img;
                 } else if(item.domain == 20) {
-                img = `/${item.img}`;
+                img = `${item.img}`;
                 // console.log(img);
                 } else if(item.domain == 99) {
                 img = item.img;
@@ -290,9 +290,10 @@
                 if(item.ext){
                 img = `/img/${item.img}.png`;
                 }
+                console.log(img);
                 html += `<div class="auction-card style9">
                 <div class="auction-img">
-                  <img src="${img}" style="width:100%" alt="${item.title}">
+                  <img src="${img}" style="width:100%"  alt="${item.title}">
                   <button type="button" class="btn style1" onclick="location.href='${slug}'">Play</button>
                 </div>
                 <div class="auction-info-wrap">
